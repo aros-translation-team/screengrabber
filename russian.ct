@@ -24,11 +24,11 @@ MSG_TITLE
 ; Title
 ;
 MSG_DEFAULT_TITLE
-Заголовок по умолчанию
+По умолчанию
 ; Default title
 ;
 MSG_GRABBING_OPTIONS
-Настройки снимков
+Настройки снимка
 ; Grabbing options
 ;
 MSG_DELAY
@@ -48,7 +48,7 @@ MSG_SAVE_FILE
 ; Save file
 ;
 MSG_SCREENSHOT
-Снимок
+Сделать снимок
 ; Screenshot
 ;
 MSG_SCREEN_PARM
